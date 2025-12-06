@@ -64,7 +64,7 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 ## 👨‍💻 About the Author
 Hey, I’m Sushant Choudhary, a Data Analyst .
-I break down complex data topics into simple.
+I break down complex data topics.
 
 
 
